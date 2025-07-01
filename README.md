@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- TechGajana GitHub Profile README -->
 
-<h1 align="center">🌸 TechGajana 🌸</h1>
+<h1 align="center"> TechGajana </h1>
 <h3 align="center">A Grand Tech Revolution in Learning, Services, and Innovation 🚀</h3>
 
 <p align="center">
@@ -93,6 +93,4 @@ Here are some ideas to get you started:
 
 We welcome collaborators, dreamers, and doers.
 
-```bash
-# Clone our repo
-git clone https://github.com/TechGajana
+
